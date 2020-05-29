@@ -1,0 +1,80 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  margin: 0;
+  font-size: 20px;
+  color: hsl(0, 0%, 59%);
+  text-align: center;
+}
+
+svg {
+  margin: 100px 0 15px 0px;
+}
+
+h1{
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 0.5;
+}
+
+h4 {
+  font-weight: 600;
+  color: hsl(0, 0%, 40%);
+}
+
+strong {
+  color: black;
+}
+
+input {
+  width: 385px;
+  height: 45px;
+  border-radius: 50px;
+  border: 1px solid hsl(223, 100%, 88%);
+  text-align: left;
+  padding-left: 25px;
+  color: hsl(223, 100%, 88%);
+  margin: 25px 0 75px 0px;
+}
+
+button {
+  background-color: hsl(223, 87%, 63%);
+  color: white;
+  padding: 15px 60px;
+  margin-left: 10px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: -1px 5px 10px 0px hsl(223, 100%, 88%);
+}
+
+img {
+  width: 40%;
+}
+
+
+i {
+  margin: 75px 0 50px 10px;
+  color: hsl(223, 87%, 63%);
+  padding: 8px 9px;
+  border-radius: 100%;
+  border: 1px solid;
+}
+
+.fb {
+  padding: 8px 12px;
+}
+
+i:hover,
+i:active {
+  background-color: hsl(223, 87%, 63%);
+  color: white;
+}
